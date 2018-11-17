@@ -23,7 +23,7 @@ weight: 170
 <!--
 What's Kompose? It's a conversion tool for all things compose (namely Docker Compose) to container orchestrators (Kubernetes or OpenShift).
 -->
-什么是 Kompose？ 它是一个迁移工具，用于将 compose相关资源 （即 Docker Compose ）转换为其他容器编排系统资源（比如 Kubernetes 或者 Openshift ）。
+什么是 Kompose？ 它是一个转换工具，用于将 compose相关资源 （即 Docker Compose ）转换为其他容器编排系统资源（比如 Kubernetes 或者 Openshift ）。
 
 <!--
 More information can be found on the Kompose website at [http://kompose.io](http://kompose.io).
