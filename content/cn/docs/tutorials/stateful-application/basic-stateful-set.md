@@ -448,7 +448,7 @@ kubectl delete pod web-0
 pod "web-0" deleted
 ```
 
-<--
+<!--
 Watch the `web-0` Pod, and wait for it to transition to Running and Ready.
 -->
 观察 `web-0` Pod， 等待它变成 Running 和 Ready。
